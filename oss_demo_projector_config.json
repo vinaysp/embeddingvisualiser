@@ -6,9 +6,9 @@
                 3979,
                 2048
             ],
-            "tensorPath": "oss_data/tensor.bytes",
+            "tensorPath": "https://github.com/vinaysp/embeddingvisualiser/blob/master/tensor.bytes",
             "sprite": {
-                "imagePath": "oss_data/sprites.png",
+                "imagePath": "https://github.com/vinaysp/embeddingvisualiser/blob/master/sprites.png",
                 "singleImageDim": [
                     100,
                     100
@@ -21,9 +21,9 @@
                 1602,
                 2048
             ],
-            "tensorPath": "./oss_data/tensor.bytes",
+            "tensorPath": "https://github.com/vinaysp/embeddingvisualiser/blob/master/tensor.bytes",
             "sprite": {
-                "imagePath": "./oss_data/sprites.png",
+                "imagePath": "https://github.com/vinaysp/embeddingvisualiser/blob/master/sprites.png",
                 "singleImageDim": [
                     100,
                     100
